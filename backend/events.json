@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"aaaattt","image":"https://cdn-akebd.nitrocdn.com/bCWGvmHIgAlrWzdjLoGQbzvNeZiguKmJ/assets/images/optimized/rev-3e0cd5e/wp-content/uploads/2017/06/Why-Live-Events-Should-Be-At-The-Center-Of-Your-Marketing-Strategy.jpg","date":"2023-08-16","description":"vvvvv","id":"5efd8279-1f35-4c29-b4d3-a764e46e33aa"}],"users":[{"email":"aleks1@email.com","password":"$2a$12$q.kUjAEn219FW8lVBBNfteWu4c6u3b1TPwyXpVIyT0zy/9KdyF7jm","id":"4a1a4541-661d-4512-8357-13e727937484"},{"email":"aleks12@email.com","password":"$2a$12$918UDwcvHwk7P2pU/qyn1eoaHwFlQY5BOhDrw8NC0krA3tHyEOm22","id":"8eec69cd-989e-4d80-bbac-0aae6042b788"},{"email":"aleks123@email.com","password":"$2a$12$AN2RhxDiymw92Vcgsp99j.gTq6v7oHWl39zx4Dx2egM/aqT69dbta","id":"7ae75759-3e90-45b7-a445-ea7f85c6e2e4"},{"email":"aleks@email.com","password":"$2a$12$oL0uDST6VFsgEtk0u5b0fedAS6.KH77N2ixWr3vbcLtmSTSI1i2oi","id":"2a026e50-b1fc-4a6b-bfd2-915d36666375"}]}
